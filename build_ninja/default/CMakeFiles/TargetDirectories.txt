@@ -1,3 +1,0 @@
-/home/kepalex/CLionProjects/ak/lab2/build/default/CMakeFiles/rebuild_cache.dir
-/home/kepalex/CLionProjects/ak/lab2/build/default/CMakeFiles/cpp.dir
-/home/kepalex/CLionProjects/ak/lab2/build/default/CMakeFiles/edit_cache.dir
